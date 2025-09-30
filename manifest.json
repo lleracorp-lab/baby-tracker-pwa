@@ -1,0 +1,8 @@
+{
+  "name": "Baby Tracker",
+  "short_name": "BabyTracker",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Log feedings and diapers; predict next feed."
+}
